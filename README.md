@@ -4,7 +4,7 @@ The is the website used to get the schedule for the [final exams](https://drexel
 
 ## Setup
 
-1. Clone this repository.
+1. Clone this repository
 
 2. Install the requirements:
    
@@ -12,7 +12,7 @@ The is the website used to get the schedule for the [final exams](https://drexel
    $ pip install beautifulsoup4 ics arrow requests
    ```
    
-3. Program is ready to run.
+3. Program is ready to run
 
 4. Any calendars you decide to download will be sent to the Downloads directory
 
